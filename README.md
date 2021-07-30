@@ -27,7 +27,11 @@
  <a href="https://api.whatsapp.com/send?phone=5511985781993&text=Ol%C3%A1%2C%20vindo%20pelo%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gg31032000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel_gustavo31@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
+
   ![Snake animation](https://github.com/Gustabriel/Gustabriel/blob/output/github-contribution-grid-snake.svg)
 
  </div>
+ 
+<div>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Gustabriel/count.svg" /></p>
+</div>
