@@ -30,8 +30,10 @@
 
   ![Snake animation](https://github.com/Gustabriel/Gustabriel/blob/output/github-contribution-grid-snake.svg)
 
- </div>
- 
-<div>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Gustabriel/count.svg" /></p>
 </div>
+
+ ##
+  
+  <p align="center">👁️Profile views👁️</p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Gustabriel/count.svg" /></p>
+  
